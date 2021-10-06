@@ -1,0 +1,38 @@
+
+
+body {
+      text-align:  center ;
+      padding: 0px;
+      margin: auto;
+      font-family: "Roboto", sans-serif;
+      width:90%;
+      height: 20cm;
+  
+  }
+
+  h3 {
+    color: purple;
+}
+h1{
+    color: burlywood
+}
+text{
+    color:cornflowerblue ;
+}
+span{
+    color: burlywood;
+}
+
+
+.fa-heart{
+  color: gray;
+}
+
+
+  .shoesname {
+
+      line-height:30px;
+      height:40px;
+      overflow:hidden;
+      flex-wrap: wrap ;
+  }
